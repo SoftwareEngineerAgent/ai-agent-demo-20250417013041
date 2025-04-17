@@ -1,0 +1,11 @@
+```python
+# requirements.txt
+#
+# This file lists the Python packages required for the ai-agent-demo project.
+#
+# To install these dependencies, run:
+#   pip install -r requirements.txt
+
+openai
+pytest
+```
